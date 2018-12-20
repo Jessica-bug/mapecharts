@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2018/11/13 0013.
+ * Created by jessica on 2018/11/13 0013.
  */
 // ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization
 // Deqing Li, Honghui Mei, Yi Shen, Shuang Su, Wenli Zhang, Junting Wang, Ming Zu, Wei Chen.

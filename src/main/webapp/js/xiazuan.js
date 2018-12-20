@@ -1,5 +1,5 @@
 /**
- * Created by guanyiting on 2018/12/18 0018.
+ * Created by jessica on 2018/12/18 0018.
  */
 
 $('#main').width($(window).width()-30);
